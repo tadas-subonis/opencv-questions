@@ -1,0 +1,8 @@
+All work should be done in task_test.py and code.py
+
+Any libraries and materials online can be used.
+
+1. Extract the text from task1.png
+2. Detect the type of the shape in test2-1.png and test2-2.png between triangle and a circle
+3. Detect bounding boxes (x, y, width, heigh) of the elements in the test3.png
+
