@@ -2,7 +2,7 @@ import unittest
 
 from hamcrest import *
 
-from code import TextDetector
+from app import TextDetector
 
 
 class TestExercise(unittest.TestCase):
